@@ -1,0 +1,290 @@
+[
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "flet",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "flet",
+        "description": "flet",
+        "detail": "flet",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "isExtraImport": true,
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "overview",
+        "importPath": "src.views.overview",
+        "description": "src.views.overview",
+        "isExtraImport": true,
+        "detail": "src.views.overview",
+        "documentation": {}
+    },
+    {
+        "label": "timers",
+        "importPath": "src.views.timers",
+        "description": "src.views.timers",
+        "isExtraImport": true,
+        "detail": "src.views.timers",
+        "documentation": {}
+    },
+    {
+        "label": "add_timer",
+        "importPath": "src.views.add_timer",
+        "description": "src.views.add_timer",
+        "isExtraImport": true,
+        "detail": "src.views.add_timer",
+        "documentation": {}
+    },
+    {
+        "label": "design_timer",
+        "importPath": "src.views.design_timer",
+        "description": "src.views.design_timer",
+        "isExtraImport": true,
+        "detail": "src.views.design_timer",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "src.views.settings",
+        "description": "src.views.settings",
+        "isExtraImport": true,
+        "detail": "src.views.settings",
+        "documentation": {}
+    },
+    {
+        "label": "output_screen",
+        "importPath": "src.views.output_screen",
+        "description": "src.views.output_screen",
+        "isExtraImport": true,
+        "detail": "src.views.output_screen",
+        "documentation": {}
+    },
+    {
+        "label": "service_plan",
+        "importPath": "src.views.service_plan",
+        "description": "src.views.service_plan",
+        "isExtraImport": true,
+        "detail": "src.views.service_plan",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "tasks",
+        "importPath": "src.utils.tasks",
+        "description": "src.utils.tasks",
+        "isExtraImport": true,
+        "detail": "src.utils.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "importPath": "src.views.dashboard",
+        "description": "src.views.dashboard",
+        "isExtraImport": true,
+        "detail": "src.views.dashboard",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "importPath": "src.views.dashboard",
+        "description": "src.views.dashboard",
+        "isExtraImport": true,
+        "detail": "src.views.dashboard",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_date",
+        "importPath": "src.utils.time",
+        "description": "src.utils.time",
+        "isExtraImport": true,
+        "detail": "src.utils.time",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_time",
+        "importPath": "src.utils.time",
+        "description": "src.utils.time",
+        "isExtraImport": true,
+        "detail": "src.utils.time",
+        "documentation": {}
+    },
+    {
+        "label": "get_greetings",
+        "importPath": "src.utils.time",
+        "description": "src.utils.time",
+        "isExtraImport": true,
+        "detail": "src.utils.time",
+        "documentation": {}
+    },
+    {
+        "label": "splash",
+        "importPath": "src.views.spalsh",
+        "description": "src.views.spalsh",
+        "isExtraImport": true,
+        "detail": "src.views.spalsh",
+        "documentation": {}
+    },
+    {
+        "label": "loading",
+        "importPath": "src.views.loading",
+        "description": "src.views.loading",
+        "isExtraImport": true,
+        "detail": "src.views.loading",
+        "documentation": {}
+    },
+    {
+        "label": "COLORS",
+        "kind": 5,
+        "importPath": "src.utils.colors",
+        "description": "src.utils.colors",
+        "peekOfCode": "COLORS = {\n    # Church Timer brand set (Image 1)\n    \"brand_navy\":        \"#1B2A4A\",\n    \"brand_navy_dark\":   \"#0B1220\",\n    \"brand_gold\":        \"#D9A441\",\n    \"brand_gold_active\": \"#E0AC4B\",\n    \"sidebar_bg\":        \"#061A2C\",\n    \"panel_bg\":          \"#081C2D\",\n    \"card_bg\":           \"#1A2440\",\n    \"text_primary\":      \"#F5F6F8\",",
+        "detail": "src.utils.colors",
+        "documentation": {}
+    },
+    {
+        "label": "tasks",
+        "kind": 5,
+        "importPath": "src.utils.tasks",
+        "description": "src.utils.tasks",
+        "peekOfCode": "tasks = [\n    (\"Loading assets...\", 20),\n    (\"Loading fonts...\", 40),\n    (\"Preparing time engine...\", 60),\n    (\"Loading settings...\", 80),\n    (\"Detecting displays...\", 95),\n    (\"Ready!\", 100)\n]",
+        "detail": "src.utils.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "get_greetings",
+        "kind": 2,
+        "importPath": "src.utils.time",
+        "description": "src.utils.time",
+        "peekOfCode": "def get_greetings():\n    hour = datetime.now().hour\n    if 5 <= hour < 12:\n        return \"Good morning\"\n    elif 12 <= hour < 17:\n        return \"Good afternoon\"\n    elif 17 <= hour < 21:\n        return \"Good evening\"\n    else: return \"Good night\"\ndef get_current_date():",
+        "detail": "src.utils.time",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_date",
+        "kind": 2,
+        "importPath": "src.utils.time",
+        "description": "src.utils.time",
+        "peekOfCode": "def get_current_date():\n    date = datetime.now()\n    current_date = date.strftime(\"%A, %B %d, %Y\")\n    return current_date\ndef get_current_time():\n    time = datetime.now()\n    current_time = time.strftime(\"%I:%M %p\")\n    return current_time",
+        "detail": "src.utils.time",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_time",
+        "kind": 2,
+        "importPath": "src.utils.time",
+        "description": "src.utils.time",
+        "peekOfCode": "def get_current_time():\n    time = datetime.now()\n    current_time = time.strftime(\"%I:%M %p\")\n    return current_time",
+        "detail": "src.utils.time",
+        "documentation": {}
+    }
+]
